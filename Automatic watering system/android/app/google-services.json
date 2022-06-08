@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "76485599973",
+    "project_id": "automaticwateringsystem-4d550",
+    "storage_bucket": "automaticwateringsystem-4d550.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76485599973:android:82cbbad423b78c4eeaea0c",
+        "android_client_info": {
+          "package_name": "com.example.hehe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76485599973-besgoodudarda87vv3cqe9rgri35h7nu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hehe",
+            "certificate_hash": "298c3f3676a1d36087f02f88adbcb4bf1977c2ae"
+          }
+        },
+        {
+          "client_id": "76485599973-7vb094l2lb9uq1pitrctrk6uc6vbdoq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpaDmAoxho7L5GdEiMBbTr2d-SgGkjNLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76485599973-7vb094l2lb9uq1pitrctrk6uc6vbdoq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
