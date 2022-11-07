@@ -41,7 +41,7 @@ class _DevicePageState extends State<DevicePage> {
                     return Card(
                         color: Colors.white,
                         elevation: 10.0,
-                        margin: const EdgeInsets.fromLTRB(18, 5, 18, 5),
+                        margin: const EdgeInsets.fromLTRB(18, 5, 18, 6),
                         shadowColor: Colors.grey.withOpacity(1.0),
                         shape: RoundedRectangleBorder(
                           borderRadius: BorderRadius.circular(12.0),
