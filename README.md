@@ -1,4 +1,4 @@
-# PSM (Projek Sarjana Muda) // Translated as Degree Project
+# PSM (Projek Sarjana Muda) // Translated Undergraduate Project
 Final year project for my Degree in Computer Science (Software Engineer) at Universiti Tun Hussein Onn Malaysia (UTHM). 2019-2023
 
 **Automatic Watering System Using Arduino and Android based (AWSAA)**
