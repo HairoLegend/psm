@@ -7,7 +7,7 @@ AWSAA is an application that allow user to manage and monitor multiple automatic
 In before, AWSAA was planned to be developed using Android Studio (Fully Java), but because Flutter is a hybrid programming platform,
 this allow AWSAA to run both in Android and iOS system instead of only on Android. Throughout the development of AWSAA version 1.0.0,
 AWSAA was only tested to run on Android platform and **never tested to run on iOS**. Below are some of key feature of AWSAA :
-
+```
 - Use Dart (Flutter Framework) to develop mobile application
 - Use Google Cloud Firebase Database as live database
 - Use Arduino IDE (C++,C) to develop and upload code for Arduino microcontroller 
@@ -22,7 +22,7 @@ AWSAA was only tested to run on Android platform and **never tested to run on iO
   interface in which allow user to change condition for each device instead of hard code in through Arduino IDE.
 - In version 1.0.0, AWSAA able to record every watering session, and every device will have unique and different watering record.
 - In version 1.0.0, user are able to view watering record and display it detail for each device.
-```
+
 AWSAA is currently missing it key feature, which was to water plant both automatically and customically. Future version will surely have the missing function.
 
 Updated on 15/11/2022
