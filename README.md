@@ -23,6 +23,6 @@ AWSAA was only tested to run on Android platform and **never tested to run on iO
 - In version 1.0.0, AWSAA able to record every watering session, and every device will have unique and different watering record.
 - In version 1.0.0, user are able to view watering record and display it detail for each device.
 
-AWSAA is currently missing it key feature, which was to water plant both automatically and customically. Future version will surely have the missing function.
+AWSAA is **currently missing it key feature**, which was to water plant both automatically and customically. Future update will surely have the missing function completely developed.
 
 Updated on 15/11/2022
